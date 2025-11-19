@@ -1,9 +1,10 @@
 ---
-title : "Modern Documentation Theme"
-description: "Doks googo is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2020-10-06T08:47:36+00:00
+title : "Alexis Kasperavičius"
+description: "An attempt to catagorize various projects."
+lead: "Personal source-of-truth archive for projects, collaborations, research, and history."
+date: 2025-11-18
+lastmod: 2025-11-18
 draft: false
 images: []
 ---
+Here is some test content
