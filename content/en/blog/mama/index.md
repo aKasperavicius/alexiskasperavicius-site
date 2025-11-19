@@ -6,7 +6,7 @@ date: 2025-11-18
 lastmod: 2025-11-18
 draft: false
 weight: 50
-images: [images/western-102.png]
+images: ["western-102.png"]
 categories: ["News"]
 tags: ["security", "performance", "SEO", "Special"]
 contributors: ["Alexis Kasperavicius"]
@@ -16,4 +16,4 @@ homepage: false
 
 This is a test post. Works?
 
-![The San Juan Mountains are beautiful](images/western-102.png "San Juan Mountains")
+![The San Juan Mountains are beautiful](western-102.png "San Juan Mountains")
